@@ -4,7 +4,7 @@ A beginner-friendly Python tool that audits websites for missing **HTTP security
 
 Built as the project submission for the **IBM SkillsBuild National Cybersecurity Bootcamp** (BharatCares, 5-19 October 2026).
 
-**Author:** AratiVSalgaonkar  
+**Author:** Katta HarshaVardhan  
 **Project idea:** #2 - Automated Web Scanner
 
 ---
@@ -55,7 +55,7 @@ venv\Scripts\activate          # Windows
 pip install -r requirements.txt
 
 # 3. Start Jupyter and open the notebook
-jupyter notebook AratiVSalgaonkar_AutomatedWebScanner.ipynb
+jupyter notebook KattaHarshaVardhan_AutomatedWebScanner.ipynb
 ```
 
 4. Edit the `TARGETS` list in the **Configuration** cell (only use sites you own or that are meant for testing).
@@ -80,8 +80,8 @@ An internet connection is required. The full scan of 5-6 sites takes under a min
 ## Project Structure
 
 ```
-AratiVSalgaonkar_AutomatedWebScanner.ipynb   # main project code
+KattaHarshaVardhan_AutomatedWebScanner.ipynb   # main project code
 requirements.txt                     # dependencies
-AratiVSalgaonkar_ProjectReport.docx          # full project report
+KattaHarshaVardhan_ProjectReport.docx          # full project report
 README.md                            # this file
 ```
